@@ -2,7 +2,7 @@
 - 👋 Hi, my name is Segun Ojo
 - 👀 Lover of Science, Maths, Open Source
 - 🌱 I’m currently into frontend development
-- 📫 I'm currently working on flutter as a side Booster
+- 📫 I'm currently learning reactjs
 - 🌱 Ask me anything about coding with javascript and reactjs
 - 💞️ I’m looking to collaborate on any frontend project
 - 📫 How to reach me olusegunkd2017@gmail.com
