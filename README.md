@@ -14,10 +14,14 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+##⚡ Fun fact
+- <p>I will beat you in chess</p>
  
 ![Segun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lil-dev16&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dev16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=lil-dev16)
 <!--
 **lil-dev16/lil-dev16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
