@@ -18,6 +18,7 @@
 
 ## ⚡ Fun fact
 - I will beat you in chess
+- I pay attention to details of design:)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lil-dev16&theme=dark)](https://git.io/streak-stats)
  
