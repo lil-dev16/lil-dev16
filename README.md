@@ -2,11 +2,11 @@
 - 👋 Hi, my name is Segun Ojo
 - 👀 Lover of Science, Maths, Open Source
 - 🌱 I’m currently into frontend development
-- 📫 I'm currently learning reactjs
+- 📫 I'm currently learning react
 - 🌱 Ask me anything about coding with javascript and reactjs
 - 💞️ I’m looking to collaborate on any frontend project
 - 📫 How to reach me olusegunkd2017@gmail.com
-- Portfolio: segunojo.netlify.app
+- Portfolio: https://segunojo.netlify.app
 
 ## ⚒ My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
