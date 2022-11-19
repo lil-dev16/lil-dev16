@@ -20,7 +20,6 @@
 
 ## ⚡ Fun fact
 - I pay attention to details of design
-- I listen to lofi
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lil-dev16&theme=dark)](https://git.io/streak-stats)
  
