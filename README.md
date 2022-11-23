@@ -19,9 +19,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## ⚡ Fun fact
-- I pay attention to details of design
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lil-dev16&theme=dark)](https://git.io/streak-stats)
  
 ![Segun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lil-dev16&show_icons=true&theme=radical)
