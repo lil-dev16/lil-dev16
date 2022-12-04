@@ -1,4 +1,4 @@
-# Hello there![wave](https://user-images.githubusercontent.com/75251546/205519596-b01bd742-b096-4599-bc41-b30371e21fc4.gif)
+# Hello there ![wave](https://user-images.githubusercontent.com/75251546/205519596-b01bd742-b096-4599-bc41-b30371e21fc4.gif)
 
 - 👋 Hi, my name is Segun Ojo
 - 👀 Lover of Science, Maths, Open Source
