@@ -19,12 +19,34 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lil-dev16&theme=dark)](https://git.io/streak-stats)
+## 🌍 Socials 
+[![Linkedin Badge](https://img.shields.io/badge/-Treasure_A.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segun0x)
+[![Twitter Badge](https://img.shields.io/badge/-@cyberGenie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/segun0x) 
+[![Instagram Badge](https://img.shields.io/badge/-@cyberGenie-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/__segunx) 
+
+<details>
+  <summary>Stats 🤩 (tap to open)</summary>
+  <br />
+  
+  <img src="https://komarev.com/ghpvc/?username=lil-dev16" alt="cybergeni" />
+  
+  [![GitHub segun](https://img.shields.io/github/followers/cybergeni?label=Follow%20me&style=flat)](https://github.com/cybergeni)
+  
+  [![Segun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lildev16&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dev16)](https://github.com/lil-dev16/github-readme-stats)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=lil-dev16&show_icons=true&theme=solarized-dark&hide_border=true" alt="lil-dev16" />
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lil-dev16&show_icons=true&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</details>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=lil-dev16&theme=dark)](https://git.io/streak-stats)
  
  
 ![Segun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lil-dev16&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dev16)](https://github.com/lil-dev16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dev16)](https://github.com/lil-dev16/github-readme-stats) -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lildev16)](https://github.com/lil-dev16/github-readme-stats) -->
 
