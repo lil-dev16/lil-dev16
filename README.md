@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌍 Socials 
-[![Linkedin Badge](https://img.shields.io/badge/-segun0x -0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segun0x)
+[![Linkedin Badge](https://img.shields.io/badge/-segun0x-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segun0x)
 [![Twitter Badge](https://img.shields.io/badge/-@segun0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/segun0x) 
 [![Instagram Badge](https://img.shields.io/badge/-@segun0x-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/__segunx) 
 
