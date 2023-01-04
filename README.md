@@ -35,7 +35,7 @@
   [![Segun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lil-dev16&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <!-- [![Segun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lildev16)](https://github.com/anuraghazra/github-readme-stats) -->
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dev16)](https://github.com/lil-dev16/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dev16)](https://github.com/segun0x/github-readme-stats)
   
   <img src="https://github-readme-stats.vercel.app/api?username=lil-dev16&show_icons=true&theme=solarized-dark&hide_border=true" alt="lil-dev16" />
 
