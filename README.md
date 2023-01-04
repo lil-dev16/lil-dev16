@@ -32,7 +32,7 @@
   
   [![GitHub segun](https://img.shields.io/github/followers/lil-dev16?label=Follow%20me&style=flat)](https://github.com/lil-dev16) -->
   
-  [![Segun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=segun0x&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Segun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=segun0x&layout=compact&theme=solarized-dark&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
   <!-- [![Segun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lildev16)](https://github.com/anuraghazra/github-readme-stats) -->
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dev16)](https://github.com/segun0x/github-readme-stats)
