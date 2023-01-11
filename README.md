@@ -49,6 +49,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dev16)](https://github.com/lil-dev16/github-readme-stats) -->
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lildev16)](https://github.com/lil-dev16/github-readme-stats) -->
-
 
